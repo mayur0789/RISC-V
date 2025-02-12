@@ -1188,13 +1188,3 @@ Value of general purpose registers before running the program (As per the design
 | MEM[1]       | 0x00000001       | 1                   |
 | MEM[2]       | 0x00000002       | 2                   |
 | MEM[3]       | 0x00000003       | 3                   |
-
----
-
-### VIDEO
-
-https://drive.google.com/file/d/1DmFYPMZrU0df0-gx2Q0ekcFe76f23znp/view?usp=sharing
-
----
-
-
